@@ -18,6 +18,7 @@ Entrada
 2 4
 
 5 5
+
 Salida
 
 "La matriz de tamaño 2 es de raíz entera simétrica."
